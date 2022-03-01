@@ -1,5 +1,5 @@
 ---
 title: Jekyll URL Shortener
-permalink: /fxfjs/
+permalink: /fxfj/
 redirect_to: https://www.lindsconway.com/fxfj-mini-course
 ---
