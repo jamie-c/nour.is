@@ -1,5 +1,5 @@
 ---
 title: Order Supplements
-permalink: /splmnts/
+permalink: /holiday-supplements/
 redirect_to: https://us.fullscript.com/protocols/lconway-healthy-holidays
 ---
